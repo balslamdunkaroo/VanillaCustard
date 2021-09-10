@@ -1,0 +1,112 @@
+[
+  {
+
+    "_id": "1",
+    "nsfw_type": "violence",
+    "startTime": 27,
+    "endTime": 29,
+    "startFrame": 37,
+    "endFrame": 39
+  },
+  {
+    "_id": "2",
+    "nsfw_type": "violence",
+    "startTime": 76,
+    "endTime": 80,
+    "startFrame": 58,
+    "endFrame": 60
+  },
+  {
+    "_id": "3",
+    "nsfw_type": "violence",
+    "startTime": 148,
+    "endTime": 153,
+    "startFrame": 118,
+    "endFrame": 120
+  },
+  {
+    "_id": "4",
+    "nsfw_type": "violence",
+    "startTime": 160,
+    "endTime": 164,
+    "startFrame": 124,
+    "endFrame": 128
+  },
+  {
+    "_id": "5",
+    "nsfw_type": "violence",
+    "startTime": 215,
+    "endTime": 242,
+    "startFrame": 124,
+    "endFrame": 128
+  },
+  {
+    "_id": "6",
+    "nsfw_type": "violence",
+    "startTime": 285,
+    "endTime": 290,
+    "startFrame": 124,
+    "endFrame": 128
+  },
+  {
+    "_id": "7",
+    "nsfw_type": "nudity",
+    "startTime": 204,
+    "endTime": 210,
+    "startFrame": 68,
+    "endFrame": 70
+  },
+  {
+    "_id": "8",
+    "nsfw_type": "nudity",
+    "startTime": 222,
+    "endTime": 234,
+    "startFrame": 74,
+    "endFrame": 78
+  },
+
+  {
+    "_id": "9",
+    "nsfw_type": "nudity",
+    "startTime": 390,
+    "endTime": 391,
+    "startFrame": 160,
+    "endFrame": 162
+  },
+
+
+  {
+    "_id": "10",
+    "nsfw_type": "nudity",
+    "startTime": 420,
+    "endTime": 435,
+    "startFrame": 160,
+    "endFrame": 162
+  },
+
+  {
+    "_id": "11",
+    "nsfw_type": "nudity",
+    "startTime": 444,
+    "endTime": 447,
+    "startFrame": 148,
+    "endFrame": 149
+  },
+  {
+    "_id": "12",
+    "nsfw_type": "nudity",
+    "startTime": 480,
+    "endTime": 486,
+    "startFrame": 160,
+    "endFrame": 162
+  },
+
+  {
+    "_id": "13",
+    "nsfw_type": "nudity",
+    "startTime": 510,
+    "endTime": 540,
+    "startFrame": 170,
+    "endFrame": 180
+  }
+]
