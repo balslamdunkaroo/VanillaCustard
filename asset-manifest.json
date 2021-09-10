@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/VanillaCustard/static/css/main.942db165.chunk.css",
+    "main.css": "/VanillaCustard/static/css/main.d24e3038.chunk.css",
     "main.js": "/VanillaCustard/static/js/main.4ff34717.chunk.js",
     "main.js.map": "/VanillaCustard/static/js/main.4ff34717.chunk.js.map",
     "runtime-main.js": "/VanillaCustard/static/js/runtime-main.d303bc8e.js",
     "runtime-main.js.map": "/VanillaCustard/static/js/runtime-main.d303bc8e.js.map",
-    "static/css/2.a95be28f.chunk.css": "/VanillaCustard/static/css/2.a95be28f.chunk.css",
+    "static/css/2.786ae0dd.chunk.css": "/VanillaCustard/static/css/2.786ae0dd.chunk.css",
     "static/js/2.cd9a3d93.chunk.js": "/VanillaCustard/static/js/2.cd9a3d93.chunk.js",
     "static/js/2.cd9a3d93.chunk.js.map": "/VanillaCustard/static/js/2.cd9a3d93.chunk.js.map",
     "static/js/3.302bc4c0.chunk.js": "/VanillaCustard/static/js/3.302bc4c0.chunk.js",
     "static/js/3.302bc4c0.chunk.js.map": "/VanillaCustard/static/js/3.302bc4c0.chunk.js.map",
     "index.html": "/VanillaCustard/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/VanillaCustard/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.942db165.chunk.css.map": "/VanillaCustard/static/css/main.942db165.chunk.css.map",
+    "static/css/2.786ae0dd.chunk.css.map": "/VanillaCustard/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.d24e3038.chunk.css.map": "/VanillaCustard/static/css/main.d24e3038.chunk.css.map",
     "static/js/2.cd9a3d93.chunk.js.LICENSE.txt": "/VanillaCustard/static/js/2.cd9a3d93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d303bc8e.js",
-    "static/css/2.a95be28f.chunk.css",
+    "static/css/2.786ae0dd.chunk.css",
     "static/js/2.cd9a3d93.chunk.js",
-    "static/css/main.942db165.chunk.css",
+    "static/css/main.d24e3038.chunk.css",
     "static/js/main.4ff34717.chunk.js"
   ]
 }
