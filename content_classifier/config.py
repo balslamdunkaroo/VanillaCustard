@@ -1,0 +1,10 @@
+MODEL_PATH='./weight_file/nsfw.299x299.h5'
+IMG_DIM=299
+INPUT_VIDEO='./tmp/video.mp4'
+FRAMES_FOLDER='./tmp/frames/'
+RESULT_JSON='./output.json'
+originalCategories= ['neutral','porn', 'sexy']
+categories=['neutral','nudity','sexual_content']
+troubleCategories=categories[1:]
+INTERVAL=3
+predictionThreshold=0.8
