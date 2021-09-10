@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/balslamdunkaroo.github.io/VanillaCustard/static/css/main.942db165.chunk.css",
+    "main.js": "/balslamdunkaroo.github.io/VanillaCustard/static/js/main.7e72198f.chunk.js",
+    "main.js.map": "/balslamdunkaroo.github.io/VanillaCustard/static/js/main.7e72198f.chunk.js.map",
+    "runtime-main.js": "/balslamdunkaroo.github.io/VanillaCustard/static/js/runtime-main.dddb07d9.js",
+    "runtime-main.js.map": "/balslamdunkaroo.github.io/VanillaCustard/static/js/runtime-main.dddb07d9.js.map",
+    "static/css/2.a95be28f.chunk.css": "/balslamdunkaroo.github.io/VanillaCustard/static/css/2.a95be28f.chunk.css",
+    "static/js/2.cd9a3d93.chunk.js": "/balslamdunkaroo.github.io/VanillaCustard/static/js/2.cd9a3d93.chunk.js",
+    "static/js/2.cd9a3d93.chunk.js.map": "/balslamdunkaroo.github.io/VanillaCustard/static/js/2.cd9a3d93.chunk.js.map",
+    "static/js/3.302bc4c0.chunk.js": "/balslamdunkaroo.github.io/VanillaCustard/static/js/3.302bc4c0.chunk.js",
+    "static/js/3.302bc4c0.chunk.js.map": "/balslamdunkaroo.github.io/VanillaCustard/static/js/3.302bc4c0.chunk.js.map",
+    "index.html": "/balslamdunkaroo.github.io/VanillaCustard/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/balslamdunkaroo.github.io/VanillaCustard/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.942db165.chunk.css.map": "/balslamdunkaroo.github.io/VanillaCustard/static/css/main.942db165.chunk.css.map",
+    "static/js/2.cd9a3d93.chunk.js.LICENSE.txt": "/balslamdunkaroo.github.io/VanillaCustard/static/js/2.cd9a3d93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dddb07d9.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.cd9a3d93.chunk.js",
+    "static/css/main.942db165.chunk.css",
+    "static/js/main.7e72198f.chunk.js"
+  ]
+}
