@@ -15,9 +15,9 @@ def init():
     #load the model with the weights file
     model= load_model(config.MODEL_PATH)
     #create the google storage client
-    storage_client = storage.Client("hackathon-vanilla-custard")
-    bucket=storage_client.get_bucket('vanilla-custard-bucket')
-    blob=bucket.blob("nsfw_collection.mp4")
+    storage_client = storage.Client(config.GCP_PROJECT)
+    bucket=storage_client.get_bucket(config.GCP_BUCKET)
+    blob=bucket.blob(config.BUCKET_VIDEO_BLOB)
     blob.download_to_filename(config.INPUT_VIDEO)
     
     return model,bucket
